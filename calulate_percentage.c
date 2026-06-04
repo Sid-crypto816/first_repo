@@ -8,5 +8,5 @@ int main() {
 
     float P = (M1 +M2+M3+M4+M5)/5; // Percentage
     printf("percentage is : %f ",P);
-    return 0;
+    return 0;//sid
 }
